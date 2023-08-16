@@ -25,9 +25,9 @@ projects:
     link: https://你的书籍链接
 
   - icon: article
-    name: 文章名称
-    desc: 文章详细描述
-    link: https://你的文章链接
+    name: 时间线
+    desc: 根据时间线浏览文章
+    link: /timeline/
 
 footer: 每个人都处在不同的时区
 ---
