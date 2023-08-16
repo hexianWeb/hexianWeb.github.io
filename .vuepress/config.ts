@@ -7,6 +7,7 @@ export default defineUserConfig({
   title: "hexianWeb 的静态博客",
   description: "欢迎来到我的个人知识库",
   head: [["link", { rel: "icon", href: "/logo.jpg" }]],
+
   theme,
   plugins: [
     searchProPlugin({

@@ -5,6 +5,7 @@ icon: home
 title: 博客主页
 heroImage: /logo2.jpg
 heroText: HexianWeb
+bgImage: /hero.jpg
 heroFullScreen: true
 tagline: 欢迎来到我的个人知识库
 projects:
