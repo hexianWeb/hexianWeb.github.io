@@ -68,8 +68,11 @@ export default hopeTheme({
 
     comment: {
       // You should generate and use your own comment service
-      provider: "Waline",
-      serverURL: "https://waline-comment.vuejs.press",
+      provider: "Giscus",
+      repo: "hexianWeb/blog_comment",
+      repoId: "R_kgDOKHs8LQ",
+      category: "Announcements",
+      categoryId: "DIC_kwDOKHs8Lc4CYowD",
     },
 
     // 自动生成目录页面
