@@ -16,8 +16,8 @@ projects:
 
   - icon: link
     name: 简介及联系方式
-    desc: 欢迎一起讨论问题
-    link: https://链接地址
+    desc: 找份工作 混口饭吃
+    link: /self/
 
   - icon: book
     name: 电子书存放处

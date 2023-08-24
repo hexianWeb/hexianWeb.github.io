@@ -119,6 +119,9 @@ export default hopeTheme({
       vPre: true,
       vuePlayground: true,
     },
+    components: {
+      components: ["PDF"],
+    },
 
     // uncomment these if you want a PWA
     // pwa: {
