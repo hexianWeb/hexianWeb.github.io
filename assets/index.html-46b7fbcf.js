@@ -1,0 +1,1 @@
+import{_ as t}from"./plugin-vue_export-helper-c27b6911.js";import{r as o,o as n,c as r,f as c}from"./app-0c868cee.js";const s={};function _(a,i){const e=o("PDF");return n(),r("div",null,[c(e,{url:"./assets/jianli.pdf",height:"1000px",width:"1200px"})])}const m=t(s,[["render",_],["__file","index.html.vue"]]);export{m as default};
